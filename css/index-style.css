@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(36,53,63);
+}
+*{
+    box-sizing: border-box;
+}
+.title{
+    color: rgb(13,202,240);
+}
+.parent{
+    box-shadow:  rgb(0, 0, 0) -3px 2px 55px -7px; 
+    
+}
+.pparent{
+    box-shadow:  rgb(0, 0, 0) -3px 2px 55px -7px; 
+    margin-top: 10rem; 
+    padding: 5rem;
+}
+.dom{
+    background-color: rgb(36,53,63);
+    box-shadow:  rgb(0, 0, 0) -3px 2px 55px -7px;; 
+}
+ .mgg{
+     
+    color:rgb(13,202,240); 
+ }
+ #rowData img{
+    height: 200px;
+    object-fit: contain;
+ }
